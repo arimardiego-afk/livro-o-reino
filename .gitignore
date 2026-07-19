@@ -1,2 +1,8 @@
 PRODUCT.md
 .impeccable/
+cartazes/
+cartazes-src/
+DESIGN.md
+epub-src/
+*.epub
+.claude/
